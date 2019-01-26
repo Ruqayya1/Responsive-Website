@@ -2,3 +2,45 @@ body {
     padding-top: 5rem;
   
   }
+ .em-text{
+     color:green !important;
+     font-size:30px;
+     
+     font-family: 'Pacifico', cursive;
+ }
+ .ch{
+     font-family: 'Courier New', Courier, monospace;
+     font-weight: bolder;
+     font-size:45px;
+ }
+ .jumbotron{
+     background:url(https://images.pexels.com/photos/6251/desk-music-headphones-earphones.jpg) no-repeat top center ;
+     color:#fff;
+     height:550px;
+     background-size:1600px 550px;
+     overflow: none;
+
+
+ }
+ .jumbotron h1{
+     margin-top:60px;
+ }
+ .jumbotron p{
+     margin-bottom:40px;
+ }
+ .jumbotron .app-btn{
+     width:35%;
+     margin-right:30px;
+ }
+ .jumbotron .phone{
+     width:105%;
+     height:100%;
+     
+ }
+ .demo{
+     padding: 3px;
+     border: 2px solid green;
+ }
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
