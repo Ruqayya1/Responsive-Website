@@ -8,6 +8,9 @@ body {
      
      font-family: 'Pacifico', cursive;
  }
+ section{
+     padding:40px 0 0 40px;
+ }
  .ch{
      font-family: 'Courier New', Courier, monospace;
      font-weight: bolder;
@@ -41,6 +44,17 @@ body {
      padding: 3px;
      border: 2px solid green;
  }
-h3{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+#mid{
+    padding-bottom:120px;
+}
+#fea{
+    padding-top:40px;
+    padding-bottom:100px;
+    background-color:#b5f6c2;
+    color:darkgreen;
+}
+section#fea ul li{
+    font-size:22px;
+    line-height:2em;
+   
 }
